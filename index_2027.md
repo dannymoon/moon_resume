@@ -1,13 +1,12 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Danny Moon's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Hojik(Danny) Moon
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="moon.hojik@gmail.com">moon.hojik@gmail.com</a>
+| <a href="http://linkedin.com/in/danny-moon">LinkedIn Profile</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -15,69 +14,52 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`Expected 2021`
+
+__Brigham Young University - Idaho__, Rexburg, ID
 
 - Full academic scholarship with 4.0 GPA
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+## Experience
 
-- 4.0 Major GPA
+`March 2020 - July 2020`
+__Beaumont Power Equipment__, Beaumont, CA
 
-
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Designed and developed a self-check-in kiosk with React.js for the company that increased the sales of the software by 30%
 
 
-## Service and Work History
+`April 2019 - Present`
+__Brigham Young University - Idaho__, Data Analyst
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- Collaborated with other departments of the campus to create monthly reports according to their needs.
+- Increased the performance of the Learning Management System (LMS) website of the school up to 25% by giving solutions to vendors by analyzing over 10,000 real user data.
+
+## Contest
+
+__Progressive Leasing__
+`March 6th, 2020`
+- Collaborated with team member for the preparation of the machine learning / Data Analysis competition that was held by Progressive Leasing at BYU- Idaho.
+- Used xgBoost to get the highest AUC with my team and won 1st place
+
+## Projects
+`January 2020`
+__Raspberry Pi4 Kiosk Personal Project__ 
+- Developed a kiosk by restricting unnecessary features in Chromium with command line in Linux operating system
+- Automated repetitive tasks through cronjob within in the software
+
+`December 2020`
+__Shiny Dashboard Design and Construction Management Dept.__
+- Pulled Qualtrics survey through API, analyzed it with R, and built interactive dashboard with a Shiny app
+- Saved more than 60 % of time for faculties in matching students with future employers
+
+## Service History
+
+`2011-2013`
+__Republic of Korea Army__, Choelwon, South Korea
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2013-2015`
+__The Church of Jesus Christ of Latter-day Saints Missionary__, Los Angeles, CA
 
 
 
