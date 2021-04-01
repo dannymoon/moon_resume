@@ -10,6 +10,7 @@ title: Danny Moon's Resume
 | <a href="https://github.com/dannymoon">Github</a>
 </div>
 
+(Maybe Have a session on the programming language u know so the recruitor can see it a lot faster)
 ## Education
 
 `July 2021`
