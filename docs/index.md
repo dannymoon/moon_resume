@@ -22,11 +22,17 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `April 2019 - Present`
 __Brigham Young University - Idaho__, Data Analyst
 
-- Collaborated with other departments of the campus to create monthly reports according to their needs.
 - Increased the performance of the Learning Management System (LMS) website of the school up to 25% by giving solutions to vendors by analyzing over 10,000 real user data.
+- Collaborated with other departments of the campus to create monthly reports according to their needs.
+
+`January 2021 - April 2021`
+__Research and Business Development Center__ Consultant for Good2Go
+
+- Created a machine learning model with Python using pandasto predict the sales of future stores and published it on a dashboard for the company.
+
 
 `March 2020 - July 2020`
-__Beaumont Power Equipment__, Beaumont, CA
+__Beaumont Power Equipment__, Developer Intern
 
 - Designed and developed a self-check-in kiosk with React.js for the company that increased the sales of the software by 30%
 
